@@ -1,4 +1,4 @@
-# CI/CD Pipeline Project  
+# CI/CD Pipeline Assignment
 
 ## Project Overview  
 This project demonstrates a robust Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins, SonarQube, and other DevOps tools.  
